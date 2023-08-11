@@ -1,2 +1,0 @@
-# scaffold the project structure
-python template.py
